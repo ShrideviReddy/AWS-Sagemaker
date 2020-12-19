@@ -10,7 +10,8 @@ There are different ways to build and train model in AWS Sagemaker.Following are
 - Using Docker images for framework not supported by AWS sagemkaer.
 
 In this repository , I am using scikit-learn to predict insurance cost. You can use scikit learn using estimator in AWS sagemaker. 
-You can find data [here](https://www.kaggle.com/mirichoi0218/insurance)
+You can find data [here](https://www.kaggle.com/mirichoi0218/insurance).
+
 For sake of simplicity , I have already done pre-processing and stored train and test data on AWS S3. 
 
 ## To get started:
