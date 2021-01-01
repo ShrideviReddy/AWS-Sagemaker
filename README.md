@@ -32,5 +32,6 @@ To create Notebook instance in AWS Sagemaker, follow steps given below:
     - (Optional) To associate Git repositories with the notebook instance, choose a default repository and up to three additional repositories. 
     - Choose Create notebook instance.
 When status is In-service , select Open JupyterLab or Open Jupyter. 
+
 After creating Notebook instance you proceed with your experiment. 
     
