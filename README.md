@@ -5,9 +5,9 @@ This repository contains code for linear regression using scikit-learn in AWS Sa
 </p>
 Amazon SageMaker is a cloud machine-learning platform that was launched in November 2017. SageMaker enables developers to create, train, and deploy machine-learning models in the cloud. SageMaker also enables developers to deploy ML models on embedded systems and edge-devices.
 There are different ways to build and train model in AWS Sagemaker.Following are ways which you can use to build and train model:
-* Built-in model
-* Using framework supported by AWS sagemkaer. E.g. Tensorflow, Pytorch, Scikit-learn, etc.
-* Using Docker images for framework not supported by AWS sagemkaer.
+*Built-in model
+*Using framework supported by AWS sagemkaer. E.g. Tensorflow, Pytorch, Scikit-learn, etc.
+*Using Docker images for framework not supported by AWS sagemkaer.
 
 
 In this repository , I am using scikit-learn (framework supported by AWS Sagemaker) to predict insurance cost. You can use estimator in order to Scikit-learn in AWS sagemaker. 
