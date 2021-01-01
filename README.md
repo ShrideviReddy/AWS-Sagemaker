@@ -33,5 +33,5 @@ To create Notebook instance in AWS Sagemaker, follow steps given below:
     - Choose Create notebook instance.
 When status is In-service , select Open JupyterLab or Open Jupyter. 
 
-After creating Notebook instance you proceed with your experiment. 
+After creating Notebook instance you can proceed with your experiment. 
     
